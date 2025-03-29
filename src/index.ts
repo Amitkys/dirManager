@@ -7,7 +7,7 @@ import path from "path";
 
 const program = new Command();
 
-console.log(figlet.textSync("Dir Manager"));
+console.log(figlet.textSync("Sabnam   is   Here"));
 
 program
   .version("1.0.0")

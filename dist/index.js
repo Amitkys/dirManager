@@ -18,7 +18,7 @@ const commander_1 = require("commander");
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
 const program = new commander_1.Command();
-console.log(figlet_1.default.textSync("Dir Manager"));
+console.log(figlet_1.default.textSync("Sabnam   is   Here"));
 program
     .version("1.0.0")
     .description("An example CLI for managing a directory")
